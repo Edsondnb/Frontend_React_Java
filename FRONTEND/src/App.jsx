@@ -7,8 +7,8 @@ function App() {
     <>
       <div className='container'>
         <h1>Hola React y Boostrap</h1>
-        <div className='btyn bt-outline-primary'>Registrar</div>
-        <div className='btyn bt-outline-primary'>Listar</div>
+        <div className='btn btn-outline-primary'>Registrar</div>
+        <div className='btn btn-outline-success'>Listar</div>
       </div>
     </>
   )
